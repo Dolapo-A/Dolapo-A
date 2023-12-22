@@ -29,7 +29,7 @@ I am a software developer, I love turning ideas into functional and elegant mobi
 
 | Project Name | Description | Image/GIF |  
 |--------------|-------------|-----------|  
-| [Agroxpress](Link-to-Project1) | An E-commerce mobile application that connects farmers to users | ![Project 1](Link-to-Image-or-GIF1) |  
+| [Agroxpress](https://github.com/Dolapo-A/agroxpress) | An E-commerce mobile application that connects farmers to users | ![Project 1](Link-to-Image-or-GIF1) |  
 | [Project 2](Link-to-Project2) | Brief description of Project 2 | ![Project 2](Link-to-Image-or-GIF2) |  
 | [Project 3](Link-to-Project3) | Brief description of Project 3 | ![Project 3](Link-to-Image-or-GIF3) |  
 
@@ -37,9 +37,8 @@ Feel free to explore these projects!
 
 ## Let's Connect!
 
-- [LinkedIn](www.linkedin.com/in/dolapo-araoye-86ba31219)
+- [LinkedIn](https://www.linkedin.com/in/dolapo-araoye-86ba31219/)
 - [Twitter](https://twitter.com/_dolapoe)
-- [GitHub](Link-to-GitHub)
 
 I'm always open to collaboration and new opportunities. Don't hesitate to reach out!
 
