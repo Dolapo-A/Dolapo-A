@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi!, I'm Dolapo w👋🏻
+# Hi! 👋, I'm Dolapo
 
 I am a software developer, I love turning ideas into functional and elegant mobile and web applications. Here, you'll find some of my notable projects and ways to connect with me.
 
