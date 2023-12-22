@@ -37,8 +37,8 @@ Feel free to explore these projects!
 
 ## Let's Connect!
 
-- [LinkedIn](Link-to-LinkedIn)
-- [Twitter](Link-to-Twitter)
+- [LinkedIn](www.linkedin.com/in/dolapo-araoye-86ba31219)
+- [Twitter]([Link-to-Twitter](https://twitter.com/_dolapoe))
 - [GitHub](Link-to-GitHub)
 
 I'm always open to collaboration and new opportunities. Don't hesitate to reach out!
