@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a software developer, I love turning ideas into functional and elegant mobile and web applications. Here, you'll find some of my notable projects and ways to connect with me.
 
-- I have experience with Java, Flutter, mySQL and Firebase
+- I have experience with Flutter, React, mySQL and Firebase. 
 - 👯 I’m looking to collaborate on Open Source Projects
 ## About Me
 
