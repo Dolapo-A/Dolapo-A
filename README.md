@@ -21,14 +21,4 @@ Feel free to explore these projects!
 | [SlideTech](https://slidesshare-f089e.web.app/) | SlideTech is a platform created exclusively for the purpose of sharing course materials. | ![Project 2](https://raw.githubusercontent.com/Dolapo-A/Dolapo-A/main/assets/Slidetech.gif) |  
 | [QRCodegenertor](https://github.com/Dolapo-A/qrcodegenerator) | The QR Code Generator is a windows and android software application that allows users to generate QR codes quickly and easily| ![Project 3](https://raw.githubusercontent.com/Dolapo-A/Dolapo-A/main/assets/Qrcodegenerator.gif) |  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dolapo-A&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dolapo-A&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolapo-A&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dolapo-A&theme=jolly&no-frame=true&no-bg=true&margin-w=4)
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
