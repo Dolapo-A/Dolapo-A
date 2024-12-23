@@ -1,4 +1,4 @@
-# Hi! 👋, I'm Dolapo
+# Hi 👋, I'm Dolapo
 
 A pasionate software developer, I like transforming concepts into beautiful and useful web and mobile applications.
 - 👯 I’m looking to collaborate on Open Source Projects
